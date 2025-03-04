@@ -1,4 +1,4 @@
-REMOTE
+LOCAL
 
 # git_chap5
 
